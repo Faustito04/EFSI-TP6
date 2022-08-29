@@ -53,7 +53,7 @@ const Personas = [
     "nombre":"Dinny",
     "apellido":"Comford",
     "email":"dcomford7@huffingtonpost.com",
-    "edad":"41"
+    "edad":"65"
   },
   {
     "id":"9",
@@ -130,7 +130,7 @@ const Personas = [
     "nombre":"Derry",
     "apellido":"Currer",
     "email":"dcurreri@so-net.ne.jp",
-    "ed ad":"44"
+    "edad":"44"
   },
   {
     "id":"20",
